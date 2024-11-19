@@ -1,4 +1,5 @@
 # AirTag Data Logger
+## WARNING: This script will not work on a MacOS version newer then 14.3.1 (Sonoma). Apple started encrypting the data after this version.
 
 This script logs the location data of AirTags using the Find My app on macOS. The data is saved in CSV format for further analysis.
 
